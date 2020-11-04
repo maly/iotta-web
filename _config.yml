@@ -3,3 +3,5 @@ name: IOTTA
 description: >
   Martin Malý o Internetu věcí
   teoreticky i prakticky
+
+theme: jekyll-theme-modernist
